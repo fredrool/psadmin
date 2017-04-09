@@ -79,7 +79,7 @@ gulp.task('lint', function() {
                     'no-trailing-spaces': 'error',
                     'eol-last': 'error',
                     // 'no-unused-vars': 'error',
-                    'no-underscore-dangle': 'error',
+                    // 'no-underscore-dangle': 'error',
                     'no-alert': 'error',
                     'no-lone-blocks': 'error',
                     'no-undef': 'error'
